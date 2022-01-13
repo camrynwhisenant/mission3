@@ -2,7 +2,7 @@
 
 $("#calcbtn").click(function () {
 
-    // calculates grade using input values includes letter grade
+    // calculates grade using input values includes letter grade  
     //decimals represent values of each assignment type from syllabus
     grade = ($("#txtass").val() * .55) + ($("#txtquiz").val() * .10) + ($("#txtexams").val() * .20) + ($("#txtgp").val() * .05) + ($("#txtINTEX").val() * .10)
     
