@@ -31,10 +31,8 @@ p{
     font-size: 30px
 }
 
-a{
-    font-size: 30px;
-    font-display:block;
+a {
     color: #367588;
-    width: 120px;
-    display: inline-block;
+    font-size: 30px;
+    font-display: block;
 }
